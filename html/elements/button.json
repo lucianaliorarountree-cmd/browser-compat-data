@@ -61,10 +61,11 @@
                 "flags": [
                   {
                     "type": "preference",
-                    "name": "dom.element.invokers.enabled",
+                    "name": "dom.element.commandfor.enabled",
                     "value_to_set": "true"
                   }
-                ]
+                ],
+                "impl_url": "https://bugzil.la/1983523"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -145,10 +146,11 @@
                 "flags": [
                   {
                     "type": "preference",
-                    "name": "dom.element.invokers.enabled",
+                    "name": "dom.element.commandfor.enabled",
                     "value_to_set": "true"
                   }
-                ]
+                ],
+                "impl_url": "https://bugzil.la/1983523"
               },
               "firefox_android": "mirror",
               "oculus": "mirror",
@@ -211,6 +213,7 @@
         },
         "form": {
           "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Attributes/form",
             "tags": [
               "web-features:button"
             ],
