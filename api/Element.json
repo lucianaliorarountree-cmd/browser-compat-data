@@ -198,7 +198,8 @@
             "chrome_android": "mirror",
             "edge": "mirror",
             "firefox": {
-              "version_added": "2"
+              "version_added": "2",
+              "version_removed": "144"
             },
             "firefox_android": "mirror",
             "oculus": "mirror",
@@ -1932,12 +1933,13 @@
       "ariaNotify": {
         "__compat": {
           "description": "`ariaNotify() method`",
+          "mdn_url": "https://developer.mozilla.org/docs/Web/API/Element/ariaNotify",
           "support": {
             "chrome": {
               "version_added": "141",
               "partial_implementation": true,
               "notes": [
-                "Fully supported on Windows only.",
+                "Fully supported on Windows and Linux, no support on ChromeOS.",
                 "Method exposed on macOS, but notifications are not reliably spoken."
               ]
             },
@@ -3090,7 +3092,8 @@
             "chrome_android": "mirror",
             "edge": "mirror",
             "firefox": {
-              "version_added": "2"
+              "version_added": "2",
+              "version_removed": "144"
             },
             "firefox_android": "mirror",
             "oculus": "mirror",
@@ -7188,7 +7191,7 @@
             "chrome_android": "mirror",
             "edge": "mirror",
             "firefox": {
-              "version_added": false
+              "version_added": "144"
             },
             "firefox_android": "mirror",
             "oculus": "mirror",
@@ -7203,7 +7206,7 @@
             "webview_ios": "mirror"
           },
           "status": {
-            "experimental": true,
+            "experimental": false,
             "standard_track": true,
             "deprecated": false
           }
