@@ -1,5 +1,40 @@
 # @mdn/browser-compat-data release notes
 
+## [v7.1.10](https://github.com/mdn/browser-compat-data/releases/tag/v7.1.10)
+
+October 1, 2025
+
+### Additions
+
+- `webdriver.bidi.bluetooth` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.bluetooth.disableSimulation` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.bluetooth.handleRequestDevicePrompt` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.bluetooth.simulateAdapter` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.bluetooth.simulateAdvertisement` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.bluetooth.simulateCharacteristic` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.bluetooth.simulateCharacteristicResponse` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.bluetooth.simulateDescriptor` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.bluetooth.simulateDescriptorResponse` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.bluetooth.simulateGattConnectionResponse` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.bluetooth.simulateGattDisconnection` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.bluetooth.simulatePreconnectedPeripheral` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.bluetooth.simulateService` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.browser.setDownloadBehavior` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.browser.setDownloadBehavior.downloadBehavior_parameter` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.browser.setDownloadBehavior.userContexts_parameter` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.emulation.setLocaleOverride.locale_parameter.sets_navigator_language` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.emulation.setUserAgentOverride` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.emulation.setUserAgentOverride.contexts_parameter` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.emulation.setUserAgentOverride.userAgent_parameter` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+- `webdriver.bidi.emulation.setUserAgentOverride.userContexts_parameter` ([#27986](https://github.com/mdn/browser-compat-data/pull/27986))
+
+### Statistics
+
+- 1 contributor has changed 4 files with 696 additions and 15 deletions in 1 commit ([`v7.1.9...v7.1.10`](https://github.com/mdn/browser-compat-data/compare/v7.1.9...v7.1.10))
+- 17,903 total features
+- 1,199 total contributors
+- 5,432 total stargazers
+
 ## [v7.1.9](https://github.com/mdn/browser-compat-data/releases/tag/v7.1.9)
 
 September 30, 2025
